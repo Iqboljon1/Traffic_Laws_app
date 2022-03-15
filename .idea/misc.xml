@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/add_photo.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/backgrount_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/card_background_from_edit_delete_button.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/favorite_selector.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/home_selector.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/ic_done.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/info_selector.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/item_spinner.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/drawable/tab_unselected_background.xml" value="0.2203125" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/contact_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/delete_dialog.xml" value="0.5" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_parent_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/fragment_show.xml" value="0.33" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/item_spinner.xml" value="0.33" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/tab_item_selected.xml" value="0.67" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/tab_item_unselected.xml" value="0.5" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/layout/view_pager_item_recycler_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Codial/Project/TrafficLaws/app/src/main/res/xml/provider_paths.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
