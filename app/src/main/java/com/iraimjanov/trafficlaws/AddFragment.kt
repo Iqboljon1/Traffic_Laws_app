@@ -101,7 +101,7 @@ class AddFragment : Fragment() {
                 ""
             }
         }
-
+        
         val roadSign = RoadSign(id, name, about, type, image, like)
         val boolean = myDBHelper.updateRoadSign(roadSign)
         if (boolean) {
